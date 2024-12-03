@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: reverseproxy
-        image: longcv2/udagram-reverseproxy:v1
+        image: huytn19/udagram-reverseproxy:v1
         imagePullPolicy: Always          
         resources:
           requests:

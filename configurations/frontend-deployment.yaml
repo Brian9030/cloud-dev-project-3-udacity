@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: longcv2/udagram-frontend:v1
+        image: huytn19/udagram-frontend:v1
         imagePullPolicy: Always          
         resources:
           requests:
